@@ -9,9 +9,11 @@
 - **Dynamic Game Slider:** Seamlessly navigate through the latest gaming releases with real-time updates, all powered by Next.js.
 
 ## Screenshots
-<img width="1710" alt="Screenshot 2024-01-13 at 11 52 04 AM" src="https://github.com/Swadhin2001/GameSpectra/assets/95471286/46646cc5-7ee6-40f9-bf3f-cccb8450ce92">
+<img width="1710" alt="Screenshot 2024-01-13 at 12 08 15 PM" src="https://github.com/Swadhin2001/GameSpectra/assets/95471286/9f246c8b-9138-449d-bea5-c3bab3abd942">
 
-<img width="1710" alt="Screenshot 2024-01-13 at 11 36 19 AM" src="https://github.com/Swadhin2001/GameSpectra/assets/95471286/b2db23d2-9400-4276-8e58-9bd6664c4fd6">
+<img width="1710" alt="Screenshot 2024-01-13 at 12 08 06 PM" src="https://github.com/Swadhin2001/GameSpectra/assets/95471286/cc431a65-d4e3-4c29-9ef8-bf2d45530925">
+
+<img width="1710" alt="Screenshot 2024-01-13 at 12 06 09 PM" src="https://github.com/Swadhin2001/GameSpectra/assets/95471286/18f56db9-47c7-4782-a1a7-5deef2264818">
 
 
 ## Getting Started
