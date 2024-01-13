@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Orbiton-ExtraBold';
+    src: url('../fonts/Orbitron-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'Orbiton-Medium';
+    src: url('../fonts/Orbitron-Medium.ttf');
+}
+.heading{
+    font-family: Orbiton-ExtraBold;
+    font-size: 40px;
+    color: white
+}
+.game-heading{
+    font-family: Orbiton-Medium;
+    font-size: 20px;
+    color: white;
+}
+.game-heading-loading{
+    font-family: Orbiton-ExtraBold;
+    font-size: 30px;
+    color: white;
+}
+.bg-primary {
+    background-color: rgb(255, 255, 255) !important;
+}
+@keyframes fadeIn {
+    0% { opacity: 0 }
+    100% { opacity: 1 }
+}
+span:nth-child(1) {
+  opacity: 0;
+  animation: fadeIn 500ms infinite;
+}
+span:nth-child(2) {
+  opacity: 0;
+  animation: fadeIn 500ms infinite;
+  animation-delay: 500ms;
+}
+span:nth-child(3) {
+  opacity: 0;
+  animation: fadeIn 500ms infinite;
+  animation-delay: 1000ms;
+}
