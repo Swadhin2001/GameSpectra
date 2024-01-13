@@ -34,7 +34,7 @@ function Home() {
   return (
     <>
       <div className="min-h-screen bg-gradient-to-r from-[#2E3192] to-[#00021b] ">
-        <h1 className="py-20 text-center heading">Games</h1>
+        <h1 className="py-20 text-center heading">GameS</h1>
         <motion.div
           className="px-52"
           initial={{ opacity: 0, y: 20 }}
